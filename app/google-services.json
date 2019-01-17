@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882130277111",
+    "firebase_url": "https://projem-da4a3.firebaseio.com",
+    "project_id": "projem-da4a3",
+    "storage_bucket": "projem-da4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882130277111:android:c3dea7a941e9bddf",
+        "android_client_info": {
+          "package_name": "com.ceyizuygulamasi.kubra.ceyizprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882130277111-9n22pc7o8mmj1qenmd57rt45bj18eon9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ceyizuygulamasi.kubra.ceyizprojesi",
+            "certificate_hash": "003738770c7f720296edbab0cfb1fbe97145bbdc"
+          }
+        },
+        {
+          "client_id": "882130277111-01rolgv5fthbcprp4tseqoq3s0db7bun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRoMcx4zWEA9FdizH1Wv2jiGct-0GV6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882130277111-01rolgv5fthbcprp4tseqoq3s0db7bun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

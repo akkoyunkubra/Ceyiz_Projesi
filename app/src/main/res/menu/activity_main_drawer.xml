@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_kategoriler"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Kategoriler" />
+        <item
+            android:id="@+id/nav_urunler"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Ürünler" />
+        <item
+            android:id="@+id/nav_paylasimListeleri"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Paylaşım Listeleri" />
+        <item
+            android:id="@+id/nav_firsatlar"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Fırsatlar" />
+        <item
+            android:id="@+id/nav_harcamalar"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Harcamalar" />
+    </group>
+
+
+
+</menu>
